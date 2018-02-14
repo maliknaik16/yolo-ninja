@@ -1,8 +1,4 @@
-# yolo-ninja
-Combination of scripts....
 
-#Working things
-Testing...
+# hello-world
 
-#Some more text...
-Hello,World!
+This is my first github project and learning something brand new everyday.
